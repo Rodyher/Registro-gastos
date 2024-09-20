@@ -25,3 +25,4 @@
 19/09/24;; pack -crema dental y enjuague bucal;; 25.0
 20/09/24;; Prueba;; 0.0
 20/09/24;; Pr;; 0.0
+20/09/24;; ADD;; 0.0
