@@ -16,9 +16,9 @@
 (16/09/24), comida (mass), 25.83
 (16/09/24), Verdura, 6.4
 (16/09/24), pan, 3.0
-(16/09/24), 5.70 p. toalla- pimienta, 5.7
+(16/09/24), toalla- pimienta, 5.7
 (18/09/24), Jamón, 6.0
-(18/09/24), huevo, salchicha, 9.68
+(18/09/24), huevo y salchicha, 9.68
 (19/09/24), arroz, 23.5
 (19/09/24), pan, 3
 (19/09/24), aceituna verdura y plátano, 6.2
