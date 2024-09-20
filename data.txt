@@ -25,3 +25,4 @@
 19/09/24;; pack -crema dental y enjuague bucal;; 25.0;; fiat
 20/09/24;; prueba;; 0.0;; fiat
 (20/09/24);; ADD;; 10.0;; provis
+(20/09/24);; Xd;; 10.0;; provis
