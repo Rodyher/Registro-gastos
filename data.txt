@@ -22,4 +22,6 @@
 19/09/24;; arroz;; 23.5;; fiat
 19/09/24;; pan;; 3;; fiat
 19/09/24;; aceituna verdura y plátano;; 6.2;; fiat
-19/09/24;; pack -crema dental y enjuague bucal;; 25.0;; fiat20/09/24;; ADD;; 8.96;; provis
+19/09/24;; pack -crema dental y enjuague bucal;; 25.0;; fiat
+20/09/24;; ADD;; 8.96;; provis
+
