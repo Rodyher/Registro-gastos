@@ -25,3 +25,4 @@
 19/09/24;; pack -crema dental y enjuague bucal;; 25.0;; fiat
 20/09/24;; tomate;; 0.0;; fiat
 20/09/24;; tomate;; 0.0;; fiat
+20/09/24;; tomate;; 0.0;; fiat
