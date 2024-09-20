@@ -24,3 +24,4 @@
 19/09/24;; aceituna verdura y plátano;; 6.2;; fiat
 19/09/24;; pack -crema dental y enjuague bucal;; 25.0;; fiat
 20/09/24;; prueba;; 0.0;; fiat
+(20/09/24);; ADD;; 10.0;; provis
