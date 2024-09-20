@@ -21,3 +21,4 @@
 (16/09/24), huevo, salchicha, 9.68
 (16/09/24), arroz, 23.5
 (16/09/24), pan, aceituna, verdura, plátano, 9.2
+(16/09/24), pack -crema dental y enjuague bucal, 25.0
