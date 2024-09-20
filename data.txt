@@ -23,3 +23,4 @@
 (19/09/24);; pan;; 3
 (19/09/24);; aceituna verdura y plátano;; 6.2
 (19/09/24);; pack -crema dental y enjuague bucal;; 25.0
+20/09/24;; Prueba;; 1.0
