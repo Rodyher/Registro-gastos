@@ -17,8 +17,9 @@
 (16/09/24), Verdura, 6.4
 (16/09/24), pan, 3.0
 (16/09/24), 5.70 p. toalla- pimienta, 3 jamón, 5.7
-(16/09/24), Jamón, 3.0
-(16/09/24), huevo, salchicha, 9.68
-(16/09/24), arroz, 23.5
-(16/09/24), pan, aceituna, verdura, plátano, 9.2
-(16/09/24), pack -crema dental y enjuague bucal, 25.0
+(18/09/24), Jamón, 3.0
+(18/09/24), huevo, salchicha, 9.68
+(19/09/24), arroz, 23.5
+(19/09/24), pan, 3
+(19/09/24), aceituna verdura y plátano, 6.2
+(19/09/24), pack -crema dental y enjuague bucal, 25.0
