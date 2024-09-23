@@ -29,5 +29,5 @@
 20/09/24;; carne y plátano;; 16.3;; fiat
 20/09/24;; ADD;; 0.0;; provis
 20/09/24;; jamón;; 3.0;; fiat
-20/09/24;; pan;; 3.0;; provis
-20/09/24;; pan de queso;; 4.0;; provis
+20/09/24;; pan;; 3.0;; fiat
+20/09/24;; pan de queso;; 4.0;; fiat
