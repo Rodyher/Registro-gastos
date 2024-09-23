@@ -28,3 +28,4 @@
 20/09/24;; incienso;; 2.0;; fiat
 20/09/24;; carne y plátano;; 16.3;; fiat
 20/09/24;; ADD;; 0.0;; provis
+20/09/24;; jamón;; 3.0;; fiat
