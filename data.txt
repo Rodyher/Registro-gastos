@@ -36,3 +36,4 @@
 22/09/24;; cebolla;; 1.0;; fiat
 22/09/24;; culantro y perejil;; 1.5;; fiat
 22/09/24;; papa;; 7.3;; fiat
+22/09/24;; ajo;; 4.8;; fiat
