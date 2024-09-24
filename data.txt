@@ -34,3 +34,4 @@
 22/09/24;; pollo;; 18.0;; fiat
 22/09/24;; tomate;; 1.0;; fiat
 22/09/24;; cebolla;; 1.0;; fiat
+22/09/24;; culantro y perejil;; 1.5;; fiat
