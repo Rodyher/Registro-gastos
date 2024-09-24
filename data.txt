@@ -31,3 +31,4 @@
 20/09/24;; jamón;; 3.0;; fiat
 20/09/24;; pan;; 3.0;; fiat
 20/09/24;; pan de queso;; 4.0;; fiat
+22/09/24;; pollo;; 18.0;; fiat
