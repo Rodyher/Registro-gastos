@@ -38,3 +38,4 @@
 22/09/24;; ajo;; 4.8;; fiat
 22/09/24;; zanahoria;; 0.5;; fiat
 24/09/24;; pan;; 3.0;; fiat
+24/09/24;; papel higiénico;; 7.0;; fiat
