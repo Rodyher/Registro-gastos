@@ -33,3 +33,4 @@
 20/09/24;; pan de queso;; 4.0;; fiat
 22/09/24;; pollo;; 18.0;; fiat
 22/09/24;; tomate;; 1.0;; fiat
+22/09/24;; cebolla;; 1.0;; fiat
