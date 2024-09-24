@@ -39,5 +39,5 @@
 22/09/24;; zanahoria;; 0.5;; fiat
 24/09/24;; pan;; 3.0;; fiat
 24/09/24;; papel higiénico;; 7.0;; fiat
-24/09/24;; harina;; 4.6;; fiat
+24/09/24;; harina;; 4.6;; provis
 24/09/24;; ají amarillo;; 0.2;; fiat
