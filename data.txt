@@ -11,7 +11,7 @@
 01/07/24;; Julio;; 873.11;; fiat
 01/08/24;; Agosto;; 840.47;; fiat
 01/09/24;; Septiembre;; 251.16;; fiat
-01/09/24;; ADD;; 9910.88;; fiat
+01/09/24;; ADD;; 9911.78;; fiat
 16/09/24;; jabón;; 10.0;; fiat
 16/09/24;; comida mass;; 25.83;; fiat
 16/09/24;; Verdura;; 6.4;; fiat
@@ -27,7 +27,6 @@
 20/09/24;; Pan;; 3.0;; fiat
 20/09/24;; incienso;; 2.0;; fiat
 20/09/24;; carne y plátano;; 16.3;; fiat
-20/09/24;; ADD;; 0.0;; provis
 20/09/24;; jamón;; 3.0;; fiat
 20/09/24;; pan;; 3.0;; fiat
 20/09/24;; pan de queso;; 4.0;; fiat
