@@ -44,3 +44,4 @@
 24/09/24;; Huevo;; 3.76;; provis
 26/09/24;; detergente;; 8.0;; fiat
 26/09/24;; jamón;; 3.0;; fiat
+26/09/24;; queso;; 3.1;; fiat
