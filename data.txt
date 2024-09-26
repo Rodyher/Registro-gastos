@@ -42,3 +42,4 @@
 24/09/24;; harina;; 4.6;; provis
 24/09/24;; ají amarillo;; 0.2;; fiat
 24/09/24;; Huevo;; 3.76;; provis
+26/09/24;; detergente;; 8.0;; fiat
