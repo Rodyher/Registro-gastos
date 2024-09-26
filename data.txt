@@ -43,3 +43,4 @@
 24/09/24;; ají amarillo;; 0.2;; fiat
 24/09/24;; Huevo;; 3.76;; provis
 26/09/24;; detergente;; 8.0;; fiat
+26/09/24;; jamón;; 3.0;; fiat
