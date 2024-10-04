@@ -50,3 +50,4 @@
 02/10/24;; ADD;; 725.5;; fiat
 02/10/24;; pan;; 32.8;; fiat
 02/10/24;; ADD;; 32.8;; fiat
+03/10/24;; Huevo,palta, plátano;; 7.72;; fiat
