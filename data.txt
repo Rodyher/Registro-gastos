@@ -53,3 +53,4 @@
 03/10/24;; Huevo,palta, plátano;; 7.72;; fiat
 08/10/24;; TrozosSalmón , azúcar, salchicha,paté, salsa de tomate,ajinoMoto, huevo,leche;; 82.53;; provis
 08/10/24;; Palta, verduras,cremas,filete;; 28.6;; fiat
+08/10/24;; Palta,ajos;; 2.8;; fiat
