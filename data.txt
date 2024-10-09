@@ -51,3 +51,4 @@
 02/10/24;; pan;; 32.8;; fiat
 02/10/24;; ADD;; 32.8;; fiat
 03/10/24;; Huevo,palta, plátano;; 7.72;; fiat
+08/10/24;; TrozosSalmón , azúcar, salchicha,paté, salsa de tomate,ajinoMoto, huevo,leche;; 82.53;; provis
