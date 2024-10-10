@@ -20,7 +20,7 @@
 18/09/24;; Jamón;; 6.0;; fiat
 18/09/24;; huevo y salchicha;; 9.68;; fiat
 19/09/24;; arroz;; 23.5;; fiat
-19/09/24;; pan;; 3;; fiat
+19/09/24;; pan;; 3.0;; fiat
 19/09/24;; aceituna verdura y plátano;; 6.2;; fiat
 19/09/24;; pack -crema dental y enjuague bucal;; 25.0;; fiat
 20/09/24;; ADD;; 8.96;; provis
@@ -55,3 +55,4 @@
 08/10/24;; Palta, verduras,cremas,filete;; 28.6;; fiat
 08/10/24;; Palta,ajos;; 2.8;; fiat
 08/10/24;; Arroz;; 22.9;; provis
+2024-10-10;; prueba;; 1.0;; fiat
