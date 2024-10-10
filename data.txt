@@ -56,3 +56,4 @@
 08/10/24;; Palta,ajos;; 2.8;; fiat
 08/10/24;; Arroz;; 22.9;; provis
 10/10/24;; prueba;; 100.0;; fiat
+10/10/24;; prueba 2;; 1.0;; fiat
