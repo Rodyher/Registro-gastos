@@ -55,6 +55,3 @@
 08/10/24;; Palta, verduras,cremas,filete;; 28.6;; fiat
 08/10/24;; Palta,ajos;; 2.8;; fiat
 08/10/24;; Arroz;; 22.9;; provis
-2024-10-10;; prueba;; 1.0;; fiat
-2024-10-10;; prueba 2;; 1.0;; provis
-2024-10-10;; prueba 3;; 2.0;; fiat
