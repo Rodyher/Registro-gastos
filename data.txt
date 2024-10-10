@@ -1,59 +1,119 @@
 01/09/23;; Septiembre;; 209.8;; fiat
+
 01/10/23;; Octubre;; 877.59;; fiat
+
 01/11/23;; Noviembre;; 657.12;; fiat
+
 01/12/23;; Diciembre;; 745.22;; fiat
+
 01/01/24;; Enero;; 873.99;; fiat
+
 01/02/24;; Febrero;; 885.27;; fiat
+
 01/03/24;; Marzo;; 871.8;; fiat
+
 01/04/24;; Abril;; 911.49;; fiat
+
 01/05/24;; Mayo;; 835.85;; fiat
+
 01/06/24;; Junio;; 888.0;; fiat
+
 01/07/24;; Julio;; 873.11;; fiat
+
 01/08/24;; Agosto;; 840.47;; fiat
+
 01/09/24;; Septiembre;; 251.16;; fiat
+
 01/09/24;; ADD;; 9911.78;; fiat
+
 16/09/24;; jabón;; 10.0;; fiat
+
 16/09/24;; comida mass;; 25.83;; fiat
+
 16/09/24;; Verdura;; 6.4;; fiat
+
 16/09/24;; pan;; 3.0;; fiat
+
 16/09/24;; toalla- pimienta;; 5.7;; fiat
+
 18/09/24;; Jamón;; 6.0;; fiat
+
 18/09/24;; huevo y salchicha;; 9.68;; fiat
+
 19/09/24;; arroz;; 23.5;; fiat
+
 19/09/24;; pan;; 3.0;; fiat
+
 19/09/24;; aceituna verdura y plátano;; 6.2;; fiat
+
 19/09/24;; pack -crema dental y enjuague bucal;; 25.0;; fiat
+
 20/09/24;; ADD;; 8.96;; provis
+
 20/09/24;; Pan;; 3.0;; fiat
+
 20/09/24;; incienso;; 2.0;; fiat
+
 20/09/24;; carne y plátano;; 16.3;; fiat
+
 20/09/24;; jamón;; 3.0;; fiat
+
 20/09/24;; pan;; 3.0;; fiat
+
 20/09/24;; pan de queso;; 4.0;; fiat
+
 22/09/24;; pollo;; 18.0;; fiat
+
 22/09/24;; tomate;; 1.0;; fiat
+
 22/09/24;; cebolla;; 1.0;; fiat
+
 22/09/24;; culantro y perejil;; 1.5;; fiat
+
 22/09/24;; papa;; 7.3;; fiat
+
 22/09/24;; ajo;; 4.8;; fiat
+
 22/09/24;; zanahoria;; 0.5;; fiat
+
 24/09/24;; pan;; 3.0;; fiat
+
 24/09/24;; papel higiénico;; 7.0;; fiat
+
 24/09/24;; harina;; 4.6;; provis
+
 24/09/24;; ají amarillo;; 0.2;; fiat
+
 24/09/24;; Huevo;; 3.76;; provis
+
 26/09/24;; detergente;; 8.0;; fiat
+
 26/09/24;; jamón;; 3.0;; fiat
+
 26/09/24;; queso;; 3.1;; fiat
+
 02/10/24;; Limón;; 0.8;; fiat
+
 02/10/24;; ADD;; 23.9;; fiat
+
 02/10/24;; ADD;; 725.5;; fiat
+
 02/10/24;; pan;; 32.8;; fiat
+
 02/10/24;; ADD;; 32.8;; fiat
+
 03/10/24;; Huevo,palta, plátano;; 7.72;; fiat
+
 08/10/24;; TrozosSalmón , azúcar, salchicha,paté, salsa de tomate,ajinoMoto, huevo,leche;; 82.53;; provis
+
 08/10/24;; Palta, verduras,cremas,filete;; 28.6;; fiat
+
 08/10/24;; Palta,ajos;; 2.8;; fiat
+
 08/10/24;; Arroz;; 22.9;; provis
+
 10/10/24;; prueba;; 100.0;; fiat
+
 10/10/24;; prueba 2;; 1.0;; fiat
+
+10/10/24;; prueba 3;; 1.0;; fiat
