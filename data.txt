@@ -62,3 +62,4 @@
 10/10/24;; limpiatodo;; 6.0;; fiat
 10/10/24;; plátano ;; 3.8;; fiat
 10/10/24;; ADD;; 150.0;; provis
+10/10/24;; Cuarto;; 425.0;; fiat
