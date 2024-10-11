@@ -59,3 +59,4 @@
 10/10/24;; esponja;; 1.5;; fiat
 10/10/24;; bolsas de basura;; 2.0;; fiat
 10/10/24;; incienso ;; 6.0;; fiat
+10/10/24;; limpiatodo;; 6.0;; fiat
