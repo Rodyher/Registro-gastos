@@ -64,3 +64,4 @@
 10/10/24;; ADD;; 150.0;; provis
 10/10/24;; Cuarto;; 425.0;; fiat
 24/10/24;; Pollo;; 43.37;; fiat
+24/10/24;; brócoli, ajo, espinaca;; 6.3;; fiat
