@@ -58,8 +58,9 @@
 10/10/24;; pollo;; 12.95;; provis
 10/10/24;; esponja;; 1.5;; fiat
 10/10/24;; bolsas de basura;; 2.0;; fiat
-10/10/24;; incienso ;; 6.0;; fiat
+10/10/24;; incienso;; 6.0;; fiat
 10/10/24;; limpiatodo;; 6.0;; fiat
-10/10/24;; plátano ;; 3.8;; fiat
+10/10/24;; plátano;; 3.8;; fiat
 10/10/24;; ADD;; 150.0;; provis
 10/10/24;; Cuarto;; 425.0;; fiat
+24/10/24;; Pollo;; 43.37;; fiat
