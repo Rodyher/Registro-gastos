@@ -65,4 +65,5 @@
 10/10/24;; Cuarto;; 425.0;; fiat
 24/10/24;; Pollo;; 43.37;; fiat
 24/10/24;; brócoli, ajo, espinaca;; 6.3;; fiat
-24/10/24;; gas ;; 58.0;; fiat
+24/10/24;; gas;; 58.0;; fiat
+24/10/24;; piña;; 5.0;; fiat
