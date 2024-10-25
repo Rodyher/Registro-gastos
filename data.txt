@@ -69,7 +69,7 @@
 24/10/24;; piña;; 5.0;; fiat
 24/10/24;; ajo;; 1.3;; fiat
 24/10/24;; palta;; 2.5;; fiat
-24/10/24;; Carne molida ;; 15.0;; fiat
+24/10/24;; Carne molida;; 15.0;; fiat
 24/10/24;; papas al hilo;; 4.1;; fiat
 24/10/24;; verduras y papa;; 5.4;; fiat
 24/10/24;; pan;; 3.0;; fiat
@@ -77,3 +77,4 @@
 24/10/24;; arroz;; 22.9;; fiat
 24/10/24;; palta;; 2.8;; fiat
 24/10/24;; platano;; 4.7;; fiat
+24/10/24;; pan ;; 3.0;; fiat
