@@ -13,6 +13,7 @@
 01/09/24;; Septiembre;; 251.16;; fiat
 01/09/24;; ADD;; 9911.78;; fiat
 01/10/24;; AJUSTE;; 45.21;; fiat
+01/10/24;; AJUSTE;; 24.01;; provis
 16/09/24;; jabón;; 10.0;; fiat
 16/09/24;; comida mass;; 25.83;; fiat
 16/09/24;; Verdura;; 6.4;; fiat
