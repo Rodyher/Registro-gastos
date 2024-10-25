@@ -67,3 +67,4 @@
 24/10/24;; brócoli, ajo, espinaca;; 6.3;; fiat
 24/10/24;; gas;; 58.0;; fiat
 24/10/24;; piña;; 5.0;; fiat
+24/10/24;; ajo;; 1.3;; fiat
