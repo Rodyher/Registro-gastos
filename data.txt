@@ -74,3 +74,4 @@
 24/10/24;; verduras y papa;; 5.4;; fiat
 24/10/24;; pan;; 3.0;; fiat
 24/10/24;; cebolla, arroz, pan, menestra, tomate, culantro, limon;; 9.0;; fiat
+24/10/24;; arroz;; 22.9;; fiat
